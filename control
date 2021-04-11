@@ -1,0 +1,11 @@
+Package: com.brend0n.batteryhealthenabler
+Name: BatteryHealthEnabler(iPad/iPod)
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Enable Battery Health section in Settings on iPad/iPod.
+Maintainer: Brend0n <brendonjkding@126.com>
+Author: Brend0n <brendonjkding@126.com>
+Section: Tweaks
+Depiction: http://brendonjkding.github.io/depictions/web/?p=com.brend0n.batteryhealthenabler
+SileoDepiction: http://brendonjkding.github.io/depictions/web/com.brend0n.batteryhealthenabler/depiction.json
